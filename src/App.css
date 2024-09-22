@@ -1,0 +1,16 @@
+.primary{
+    background-color: aqua;
+    color: red;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    width: 100%;
+   
+    background:linear-gradient(#240087,#42006C);
+
+  }
+  
+  
